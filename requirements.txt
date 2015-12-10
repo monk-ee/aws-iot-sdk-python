@@ -1,0 +1,4 @@
+paho-mqtt==1.1
+python-daemon==2.0.6
+python-dateutil==2.4.2
+virtualenv==13.1.2

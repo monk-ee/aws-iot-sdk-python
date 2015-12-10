@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aws-iot-sdk-python.iml" filepath="$PROJECT_DIR$/aws-iot-sdk-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws_iot_sdk/aws_iot_sdk.iml" filepath="$PROJECT_DIR$/aws_iot_sdk/aws_iot_sdk.iml" />
+    </modules>
+  </component>
+</project>
